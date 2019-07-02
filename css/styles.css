@@ -1,0 +1,14 @@
+.section {
+  margin: 100px;
+  background-color: ;
+}
+.badge {
+  margin-left: 10px;
+}
+.tracker, .other-accounts {
+  display: none;
+}
+input {
+  margin-left: 10px;
+  margin-right: 10px;
+}
